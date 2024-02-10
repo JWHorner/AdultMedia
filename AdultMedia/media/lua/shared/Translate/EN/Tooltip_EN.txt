@@ -1,0 +1,6 @@
+Tooltip_EN = {
+	Tooltip_UsedPornMag = "The pages are stuck together"
+	Tooltip_Juggs = "Raunchy magazine",
+	Tooltip_Hustler = "Raunchy magazine from Larry Flynt",
+	Tooltip_Playboy = "Raunchy magazine from Hugh Hefner",
+}
