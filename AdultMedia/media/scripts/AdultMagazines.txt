@@ -20,7 +20,7 @@ module AdultMagazines {
         DisplayName		= Juggs Magazine,
         Type			= Literature,
 	DisplayCategory		= Entertainment,
-        Icon			= parade195,
+        Icon			= Juggs,
         Weight			= 0.2,
 	StressChange		= -30,
 	UnhappyChange		= -30,
