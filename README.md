@@ -1,6 +1,6 @@
 # Project Zomboid Adult Media Mod
 
-A Project Zomboid mod that adds Playboy, Hustler & Juggs adult magazines, and Debbie Does Dallas, Deep Throat & Emmanuelle VHS tapes.
+A Project Zomboid mod that adds Playboy, Hustler & Juggs adult magazines, the Lady Chatterley's Lover novel, and Debbie Does Dallas, Deep Throat & Emmanuelle VHS tapes.
 
 ## Usage
 
