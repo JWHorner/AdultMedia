@@ -16,5 +16,5 @@ C:\Users
                 +--AdultMedia
                     |--\Media
                     |--mod.info
-			        +--poster.png
+                    +--poster.png
 ```

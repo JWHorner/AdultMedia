@@ -1,5 +1,5 @@
 ﻿$src = "https://raw.githubusercontent.com/JWHorner/AdultMedia/main/AdultMedia/"
-$dest = "C:\temp\mods\"
+$dest = $"$($home)\mods\"
 $files = @("mod.info",
     "poster.png?raw=true",
     "media/lua/client/RecordedMedia/recorded_media.lua",
